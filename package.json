@@ -1,0 +1,10 @@
+{
+  "name": "JavaScriptModules",
+  "version": "1.0.0",
+  "description": "A procured collection of very useful JavaScript modules.",
+  "main": "index.js",
+  "repository": "https://github.com/PC-RobinHood/JavaScriptModules.git",
+  "author": "Justin Graham <support@pcrobinhood.com>",
+  "license": "Apache 2.0",
+  "private": false
+}
